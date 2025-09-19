@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil de Amanda FL  (•◡•) /
+# Bem-vindo(a) ao perfil de Amanda Fernandes  (•◡•) /
 ## Sobre mim:
 >Atualmente trabalhando em um escritório de contabilidade, iniciei minha formação na area de engenharia de software na UniCesumar, pois busco migrar de área, já tenho conhecimento em front-end e estava expandindo meu conhecimento para a área de back-end.
 Sou autodidata, busco aprimoramento de forma constante e falo inglês fluentemente.
