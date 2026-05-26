@@ -31,21 +31,28 @@ I'm self-taught, naturally curious, and always learning something new.
 ---
 
 ## Stacks
-
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring)
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=mongodb)
+![MachineLearning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow)
+![Cloud](https://img.shields.io/badge/-Cloud%20Computing-0D1117?style=for-the-badge&logo=icloud)
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
-
 ---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Amanda-FL-CAOS&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amanda-FL-CAOS&theme=apprentice)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-FL-CAOS&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
