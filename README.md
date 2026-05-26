@@ -51,7 +51,7 @@ I'm self-taught, naturally curious, and always learning something new.
 
 ## GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amanda-FL-CAOS&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amanda-FL-CAOS&theme=algolia)
 
 
 ---
