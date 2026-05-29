@@ -50,8 +50,13 @@ I'm self-taught, naturally curious, and always learning something new.
 ---
 
 ## GitHub Stats
-
+<div align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amanda-FL-CAOS&theme=algolia)
+![](https://github-stats-kappa-seven.vercel.app/api?username=Amanda-FL-CAOS&theme=algolia&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Amanda-FL-CAOS&bg_color=1a1b27&color=7aa2f7&line=6FA5FD&point=ffffff&area=true&area_color=112240&hide_border=true)
+</div>
+
 
 
 ---
