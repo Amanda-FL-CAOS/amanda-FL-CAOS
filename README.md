@@ -21,7 +21,6 @@ Sou autodidata, curiosa por natureza e estou sempre aprendendo algo novo.
 ## About Me
 
 I'm a Software Engineering student at UniCesumar and passionate about technology, web development, and building smart solutions.
-Currently, I work as a Process Assistant at Sudeste, focusing on KPIs, operational data analysis, and process improvement — an experience that strengthened my analytical thinking and problem-solving skills.
 I already have front-end development knowledge and I'm currently expanding my studies into back-end development and the Java ecosystem.
 I'm self-taught, naturally curious, and always learning something new.
 
