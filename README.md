@@ -8,7 +8,6 @@
 ## Sobre mim
 
 Sou estudante de Engenharia de Software na UniCesumar e apaixonada por tecnologia, desenvolvimento web e criação de soluções inteligentes.
-Atualmente trabalho como Assistente de Processos na Sudeste, atuando com indicadores, análise de dados e melhoria de processos — experiência que fortaleceu meu raciocínio lógico e minha visão analítica.
 Tenho conhecimentos em front-end e também estou expandindo meus estudos para back-end e ecossistema Java.
 Sou autodidata, curiosa por natureza e estou sempre aprendendo algo novo.
 
